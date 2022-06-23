@@ -1,0 +1,16 @@
+.todo-container {
+  /* background-color: red; */
+  /* text-align: center; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+li {
+  list-style: none;
+}
+p {
+  font-size: 2rem;
+  border: 1px solid black;
+  padding: 0.3rem;
+  margin: 1rem;
+}
